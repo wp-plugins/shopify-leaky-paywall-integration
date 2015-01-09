@@ -17,7 +17,7 @@ The plugin checks every minute for new clients' orders in Shopify store.
 
 ### Important!
 
-That plugin needs "Leaky Paywall for Wordpress" plugin installed (https://zeen101.com/leakypaywall/) and Shopify Store with "private app" created to obtain API keys (more details: http://docs.shopify.com/api/authentication/creating-a-private-app).
+That plugin needs "Leaky Paywall for Wordpress" plugin installed (https://zeen101.com/leakypaywall/) and Shopify Store (with "private app" created) to obtain API keys (more details: http://docs.shopify.com/api/authentication/creating-a-private-app).
 
 ### About
 
@@ -27,7 +27,7 @@ That plugin needs "Leaky Paywall for Wordpress" plugin installed (https://zeen10
 
 1. Upload `shopify-paywall.php` to the `/wp-content/plugins/` directory.
 2. Activate the plugin through the 'Plugins' menu in WordPress.
-3. Go to Shopify Admin panel and copy the API keys 
+3. Go to Shopify Admin panel, copy the API keys and paste them on the plugin settings page.
 
 == Screenshots ==
 
